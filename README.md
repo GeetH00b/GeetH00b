@@ -2,6 +2,12 @@
 
 This is the official repo for GeetHoob.
 
+### Development TIPS
+
+* Use sass, research about it.
+* Use a standard scaffold, keep your folders to a minimum.
+
+
 
 ### TODO
 
